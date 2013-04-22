@@ -1,0 +1,9 @@
+#!/bin/sh
+
+cd /home/git/project/
+unset GIT_DIR
+git pull origin master
+
+cat nhowarth_proc_fun.txt > index.html
+echo '<br>' >> index.html
+/home/git/project/nhowarth.o >> index.html

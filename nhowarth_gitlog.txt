@@ -1,0 +1,107 @@
+commit fe76ba6fd09fa26aafb8f6badda63eba02c52527
+Author: Nick Howarth <nhowarth@seas.upenn.edu>
+Date:   Mon Apr 22 03:47:11 2013 -0400
+
+    test
+
+commit e41ea442a51059bb55b032796843241b1f4e0f1b
+Author: Nick Howarth <nhowarth@seas.upenn.edu>
+Date:   Mon Apr 22 03:45:53 2013 -0400
+
+    test
+
+commit 37a2c33c8b4898914cdd087ae3b368d3f15b68f0
+Author: Nick Howarth <nhowarth@seas.upenn.edu>
+Date:   Mon Apr 22 03:40:20 2013 -0400
+
+    updated README
+
+commit 8e38d2ff5576319b48261178158f45c344f058a5
+Author: Nick Howarth <nhowarth@seas.upenn.edu>
+Date:   Mon Apr 22 02:14:11 2013 -0400
+
+    update README
+
+commit 6652757116e026e2350cf4ac75fb6f55fbd8d2a8
+Author: Nick Howarth <nhowarth@seas.upenn.edu>
+Date:   Mon Apr 22 02:04:19 2013 -0400
+
+    readded nhowarth.o
+
+commit c4f551ccd3601f2546d9a67de6550a017cafb000
+Author: Nick Howarth <nhowarth@seas.upenn.edu>
+Date:   Mon Apr 22 01:58:10 2013 -0400
+
+    updated README
+
+commit 562b5fd09b294b48c53929afbfe32053f3119c54
+Author: Nick Howarth <nhowarth@seas.upenn.edu>
+Date:   Mon Apr 22 01:56:50 2013 -0400
+
+    updated README
+
+commit 57b15b9ef0617d821b839bd96797e3c08ce0446c
+Author: Nick Howarth <nhowarth@seas.upenn.edu>
+Date:   Mon Apr 22 01:55:07 2013 -0400
+
+    added make/c/o
+
+commit c932b32a812c792e9ae5f8d816c5e789c5150df6
+Author: Nick Howarth <nhowarth@seas.upenn.edu>
+Date:   Mon Apr 22 01:16:34 2013 -0400
+
+    attempt
+
+commit 6371de7e5ee7bd770273e313e51335f70488ee93
+Author: Nick Howarth <nhowarth@seas.upenn.edu>
+Date:   Mon Apr 22 00:45:08 2013 -0400
+
+    attempt
+
+commit 3a4ee58abbe2c2edb9ae7e274c808537043d7e7d
+Author: Nick Howarth <nhowarth@seas.upenn.edu>
+Date:   Mon Apr 22 00:43:17 2013 -0400
+
+    attempt
+
+commit 46070eb8a430ea327ea035734359383c3dee7e4a
+Author: Nick Howarth <nhowarth@seas.upenn.edu>
+Date:   Mon Apr 22 00:42:08 2013 -0400
+
+    attempt
+
+commit 5c0f9c83b221b91bdc1577e6c0c0054c4ea86b76
+Author: Nick Howarth <nhowarth@seas.upenn.edu>
+Date:   Mon Apr 22 00:40:29 2013 -0400
+
+    attempt
+
+commit 4020749eeede9dad9806267b2d968d10686132ce
+Author: Nick Howarth <nhowarth@seas.upenn.edu>
+Date:   Mon Apr 22 00:27:24 2013 -0400
+
+    README update
+
+commit ad60bfac670b498f7194fc27fd3bc548cd1dceef
+Author: Nick Howarth <nhowarth@seas.upenn.edu>
+Date:   Sun Apr 21 23:14:28 2013 -0400
+
+    attempt
+
+commit cfa11c16eca0de380b8e8ea62f02ace071a6d170
+Author: Nick Howarth <nhowarth@seas.upenn.edu>
+Date:   Sun Apr 21 15:55:13 2013 -0400
+
+    fix for the README file
+
+commit f87336c1b99f4b52cefb83c3cc93c1e3e7348719
+Author: Nick Howarth <nhowarth@seas.upenn.edu>
+Date:   Sun Apr 21 10:51:15 2013 -0400
+
+    initial commit
+
+commit ba84b4992506fc1a52b10304aa9d89697368b4c1
+Author: Nick Howarth <nhowarth@seas.upenn.edu>
+Date:   Sat Apr 20 23:18:51 2013 -0400
+
+    initial commit

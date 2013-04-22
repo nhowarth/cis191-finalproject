@@ -1,0 +1,13 @@
+1. /proc/version <br>
+Linux version 3.5.0-17-generic (buildd@roseapple) (gcc version 4.7.2 (Ubuntu/Linaro 4.7.2-2ubuntu1) ) #28-Ubuntu SMP Tue Oct 9 19:32:08 UTC 2012 <br>
+2. /proc/filesystems <br>
+yes <br>
+3. /proc/meminfo <br>
+522236 <br>
+4. /proc/8931/cmdline <br>
+ssh^@nhowarth@eniac.seas.upenn.edu^@ <br>
+5. /proc/9347/cmdline <br>
+/usr/lib/firefox/firefox^@ <br>
+6. /proc/cpuinfo <br>
+2203.677 MHz <br>
+<br>
